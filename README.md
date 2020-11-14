@@ -1,6 +1,6 @@
 # SAC:Soft Actor Critic_implementation
 
-This is a **Pytorch implementation of the 'Soft Actor Critic' paper**(Both of the jupyter notebook and python script is used for the 'main' file and for several others too)
+This is a **Pytorch implementation of the 'Soft Actor Critic' paper** (Both of the jupyter notebook and python script is used for the 'main' file and for several others too)
 
 Paper: [Soft actor critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 
