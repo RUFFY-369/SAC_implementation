@@ -21,6 +21,6 @@ Note: In the title of the plot there should be '1000 scores' instead of '100 sco
 ![](https://github.com/RUFFY-369/SAC_implementation/blob/master/temp/video/Lunar_lander_cont-v2/openaigym.video.0.29980.video000975.gif)![](https://github.com/RUFFY-369/SAC_implementation/blob/master/plots/LunarLanderContinuous-v2.png)
 
 
-
+#### References: [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines/tree/master/stable_baselines/sac)
 
 
